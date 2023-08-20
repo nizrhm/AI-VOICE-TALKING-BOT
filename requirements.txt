@@ -1,0 +1,9 @@
+#for speech to text
+pip install SpeechRecognition
+
+#for text to speech
+pip install gTTS
+
+#for the language model
+pip install transformers
+pip install tensorflow
